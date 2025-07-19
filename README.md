@@ -12,7 +12,7 @@
 
 - 🎓 Undergraduate at **BVRIT**  
 - 🔍 Currently exploring **Spring Boot**, real-time app development  
-- 📄 Know about my experiences [My Resume](/.22211A1222_PranayKumar.pdf)
+- 📄 Know about my experiences [My Resume](22211A1222_PranayKumar.pdf)
 - 📍 From **Hyderabad, India**
 
 ---
