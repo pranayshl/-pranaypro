@@ -12,7 +12,7 @@
 
 - 🎓 Undergraduate at **BVRIT**  
 - 🔍 Currently exploring **Spring Boot**, real-time app development  
-- 📄 Know about my experiences [My Resume](https://your-resume-link.com)  
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1GZ7pXBPA5w1wwt9DTffuVV8kWH2FnWq8/view?usp=drivesdk)  
 - 📍 From **Hyderabad, India**
 
 ---
